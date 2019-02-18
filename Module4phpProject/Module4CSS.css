@@ -1,0 +1,14 @@
+P
+{
+font-size: 1.5em;
+color: Black
+}
+
+ a:hover {
+    background-color: Blue; color:Orange; 
+ } 
+ 
+ .footer{font-size:1em; color:Green}
+
+ .menu{font-size:2em;}
+ 
