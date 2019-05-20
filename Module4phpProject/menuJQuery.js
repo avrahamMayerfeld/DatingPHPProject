@@ -2,8 +2,7 @@
 
 $(document).ready(function(){
  
-  
- $(".menu").mouseenter(function(){
+   $(".menu").mouseenter(function(){
    $(".menu").fadeOut(1000);
    $(".menu").fadeIn(1000);
 
